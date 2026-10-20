@@ -27,7 +27,7 @@
 
 **C++20 · Qt6 · CMake · TCP · SQLite**
 
-> RAW 이미지의 Preview, Develop, Catalog, Export를 하나의 workflow로 제공하는  
+> RAW 이미지의 Preview, Develop, Catalog, Export를 하나의 워크플로우로 제공하는  
 > C++ 기반 데스크톱 애플리케이션
 
 - RAW image processing workflow
@@ -47,7 +47,7 @@
 **Python · FastAPI · SQLite · Docker · NVIDIA Jetson**
 
 > 제한된 CPU·GPU·통합 메모리를 여러 workload가 공유하는 환경에서  
-> 작업 실행 가능 여부를 판단하기 위한 Resource Admission Service
+> 작업 실행 가능 여부를 판단하기 위한 리소스 대여 서비스
 
 - SHARED / EXCLUSIVE Lease
 - Telemetry와 기존 Lease를 함께 반영한 resource admission
