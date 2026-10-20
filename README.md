@@ -10,11 +10,11 @@
 ![Performance](https://img.shields.io/badge/Performance-Engineering-555555?style=flat-square)
 
 실제 실행 환경에서 발생하는  
-**성능 · 자원 제약 · 네트워크 통신 · 비동기 처리 · 분산 시스템**
+**성능 · 자원 제약 · 네트워크 통신 · 비동기 처리 · 분산 시스템**  
 에 관심을 갖고 개발에 임하고 있습니다.
 
 개인 프로젝트를 통해  
-**C++ Native Software와 Edge 환경**
+**C++ Native Software와 Edge 환경**  
 에서 작동하는 서비스를 지속적으로 개발하고 있습니다.
 
 </div>
